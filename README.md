@@ -5,7 +5,7 @@ Feel free to use this README as inspiration for your own profile. If you want to
 -->
 
 <p align="center">
-  <img src="https://github.com/kalashjain9/kalashjain9/assets/kalashjain9/profile-banner.png" alt="Profile Banner" width="90%" />
+  <img src="https://github.com/kalashjain9/kalashjain9/blob/main/banner.webp" alt="Profile Banner" width="90%" />
 </p>
 
 <h1 align="center">Hi, I'm Kalash Jain 👋</h1>
