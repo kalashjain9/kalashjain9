@@ -1,7 +1,7 @@
 <!--
 👋 Hi there! Welcome to my GitHub Profile
 
-Feel free to use this README as inspiration for your own profile. If you want to connect or collaborate, don't hesitate to reach out! 
+Feel free to connect or collaborate—let's push the boundaries of tech together!
 -->
 
 <p align="center">
@@ -10,7 +10,7 @@ Feel free to use this README as inspiration for your own profile. If you want to
 
 <h1 align="center">Hi, I'm Kalash Jain 👋</h1>
 <p align="center">
-  <b>Tech Enthusiast | AI/ML Engineer | Data Scientist | Research Fellow | Open Source Advocate</b>
+  <b>AI/ML Engineer | Data Scientist | Research Fellow | Tech Speaker | Open Source Contributor | Lifelong Learner</b>
 </p>
 
 ---
@@ -19,10 +19,14 @@ Feel free to use this README as inspiration for your own profile. If you want to
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI/ML-%2300c853.svg?&style=flat&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML-%2300c853?style=flat&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -30,17 +34,75 @@ Feel free to use this README as inspiration for your own profile. If you want to
 ## 🚀 About Me
 
 - 🎓 **B.Tech (AI & Data Science), Honours in Computational Biology**  
-  DWARKADAS JIVANLAL SANGHVI COLLEGE OF ENGINEERING (CGPA: 9.95)
+  <b>DWARKADAS JIVANLAL SANGHVI COLLEGE OF ENGINEERING</b> (CGPA: 9.95)
 - 🧑‍💻 **AI/ML Intern @ K2S2 Digistrat Solution Pvt. Ltd**  
-  Working on real-world image processing & RPA projects with Python, OpenCV, TensorFlow.
+  Developing AI-powered image processing & RPA projects (Python, OpenCV, TensorFlow).
 - 🧑‍🔬 **Research Fellow @ SIMPPL, MIT USA**  
-  AI/ML research under MIT mentorship, focusing on innovative solutions for real-world applications.
+  AI/ML research under MIT mentorship, building real-world innovative solutions.
 - 👨‍💼 **CEO & Co-Founder @ NeuraMindsAI**  
-  Building AI-powered chatbots, automation tools, and cloud-based AI integration.
-- 🏅 **Achievements:**  
+  Delivering AI-driven chatbots, automation, NLP, and cloud-based AI integration.
+- 🗣️ **Tech Speaker & Mentor**  
+  Passionate about sharing knowledge and empowering tech communities through workshops and talks.
+- 🏆 **Achievements:**  
   - Gold Medalist, International Mathematics Olympiad (IMO-SOF)  
   - Winner, Mozilla Innovation Challenge  
-  - Multiple national-level awards in science and arts
+  - Multiple national-level awards in science, technology, and arts
+
+---
+
+## 🧠 Knowledge & Interests
+
+- Artificial Intelligence (ML, DL, NLP, RL, CV)
+- Data Engineering & Visualization
+- Cloud & DevOps (AWS, Docker, Linux, CI/CD)
+- Computational Biology & Healthcare AI
+- Financial Modeling & Quantitative Analysis
+- Prompt Engineering & LLMs
+- Algorithmic Trading & Time Series
+- Product Design, UI/UX, and EdTech
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python, C/C++, Java, TypeScript, JavaScript, HTML, SQL, Bash, R (basics)</td>
+  </tr>
+  <tr>
+    <td><b>ML/DL</b></td>
+    <td>TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Transformers, OpenCV, Keras, FastAI</td>
+  </tr>
+  <tr>
+    <td><b>Data/Visualization</b></td>
+    <td>Pandas, NumPy, Matplotlib, Seaborn, Plotly, Bokeh, FAISS, D3.js, Tableau</td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>Streamlit, FastAPI, Flask, Django, Node.js, React</td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>AWS, Docker, GitHub Actions, Linux, Google Cloud, Heroku</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL, PostgreSQL, MongoDB, Firebase, NoSQL, Neo4j</td>
+  </tr>
+  <tr>
+    <td><b>Other Tools</b></td>
+    <td>Figma, Canva, LaTeX, Google Colab, Microsoft Office, API Integrations, Prompt Engineering</td>
+  </tr>
+  <tr>
+    <td><b>Soft Skills</b></td>
+    <td>Collaboration, Leadership, Problem Solving, Analytical Thinking, Communication, Mentoring</td>
+  </tr>
+  <tr>
+    <td><b>Languages Spoken</b></td>
+    <td>English, Hindi, Gujarati, Marathi</td>
+  </tr>
+</table>
 
 ---
 
@@ -49,6 +111,8 @@ Feel free to use this README as inspiration for your own profile. If you want to
 <p align="center">
   <img src="https://img.shields.io/badge/Gold%20Medalist-IMO--SOF-FFD700?style=for-the-badge&logo=medal&logoColor=white" />
   <img src="https://img.shields.io/badge/Mozilla%20Innovation%20Challenge-Winner-8c8c8c?style=for-the-badge&logo=mozilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dr.Homi%20Bhabha%20Balvaidnyanik-Certified-blue?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swachh%20Bharat%20Art%20Competition-Winner-brightgreen?style=for-the-badge&logo=paintbrush&logoColor=white" />
 </p>
 
 ---
@@ -59,37 +123,6 @@ Feel free to use this README as inspiration for your own profile. If you want to
   <img src="https://github-readme-stats.vercel.app/api?username=kalashjain9&show_icons=true&theme=gradient" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalashjain9&layout=compact&theme=gradient" width="48%">
 </p>
-
----
-
-## 🛠️ Skills & Tools
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, C/C++, Java, HTML, TypeScript, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>ML/DL</b></td>
-    <td>TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Transformers, OpenCV, Keras</td>
-  </tr>
-  <tr>
-    <td><b>Data/Visualization</b></td>
-    <td>Pandas, NumPy, Matplotlib, Seaborn, FAISS, Streamlit</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>GitHub, Google Colab, MySQL, NoSQL, Microsoft Office, FastAPI</td>
-  </tr>
-  <tr>
-    <td><b>Soft Skills</b></td>
-    <td>Collaboration, Leadership, Problem Solving, Analytical Thinking, Communication</td>
-  </tr>
-  <tr>
-    <td><b>Languages Spoken</b></td>
-    <td>English, Hindi, Gujarati, Marathi</td>
-  </tr>
-</table>
 
 ---
 
@@ -143,6 +176,14 @@ Feel free to use this README as inspiration for your own profile. If you want to
 
 ---
 
+## 📚 Publications, Talks & Community
+
+- 📃 [Resume (PDF)](https://github.com/kalashjain9/kalashjain9/blob/main/Kalash_Jain_Resume_9.pdf)
+- 🗣️ Invited Speaker at tech fests, college workshops, and hackathons
+- 🏅 Contributor to open source and community-driven projects
+
+---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -160,14 +201,5 @@ Feel free to use this README as inspiration for your own profile. If you want to
 ---
 
 <p align="center">
-  <b>Let's innovate, build, and learn together!</b>
+  <b>Let's innovate, build, and learn together! 🚀</b>
 </p>
-
----
-
-<details>
-  <summary>📄 View My Resume</summary>
-  <p>
-    <a href="https://github.com/kalashjain9/kalashjain9/blob/main/Kalash_Jain_Resume_9.pdf">Download Resume (PDF)</a>
-  </p>
-</details>
